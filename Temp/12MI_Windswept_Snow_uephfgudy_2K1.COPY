@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="1MI_Windswept_Snow_uephfgudy_2K1"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=8C79BF454F7E3BC938CAA1BFE484AB70
+   Parent=Material'"/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.M_MS_Surface_Material"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="Albedo"),ParameterValue=Texture2D'"/Game/Megascans/Surfaces/Windswept_Snow_uephfgudy/T_Windswept_Snow_uephfgudy_2K_D.T_Windswept_Snow_uephfgudy_2K_D"',ExpressionGUID=89D6FC494492C60A8A0AAA9ED7BC42FF)
+   TextureParameterValues(1)=(ParameterInfo=(Name="ARD"),ParameterValue=Texture2D'"/Game/Megascans/Surfaces/Windswept_Snow_uephfgudy/T_WindsweptSnow_uephfgudy_2K_ORDp.T_WindsweptSnow_uephfgudy_2K_ORDp"',ExpressionGUID=437C2711471138210399E6B6F105EA49)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Normal"),ParameterValue=Texture2D'"/Game/Megascans/Surfaces/Windswept_Snow_uephfgudy/T_Windswept_Snow_uephfgudy_2K_N.T_Windswept_Snow_uephfgudy_2K_N"',ExpressionGUID=5C96268447D7D7B4B552C993DB7CBC24)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=40B954A1450DE22091AD1BAA72DF5F16
+   ReferencedTextureGuids(1)=646726DD4ECF1630831578AAFD13583E
+   ReferencedTextureGuids(2)=17641DBB491534C7A1B6C78761641101
+   ReferencedTextureGuids(3)=6E789C704C191874EC1F77A1E0956C78
+   TextureStreamingDataVersion=1
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=7332BBCB4D8B018036EAFDAF88F47DEB
+End Object
